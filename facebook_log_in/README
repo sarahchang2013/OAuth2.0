@@ -1,1 +1,2 @@
 See /templates/login.html for button to implement facebook log in.
+And project.py has the added modules of facebook connect and disconnect.
